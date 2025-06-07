@@ -7,6 +7,7 @@ This site showcases my skills, projects, and contact information as a Frontend D
 - HTML, CSS, JavaScript
 - React, Node.js, MongoDB
 
+
 ## 📄 Features
 - About section
 - Skills showcase
@@ -21,3 +22,4 @@ This site showcases my skills, projects, and contact information as a Frontend D
 ---
 
 Thank you for visiting!
+![Screenshot_7-6-2025_225123_127 0 0 1](https://github.com/user-attachments/assets/3f8308af-c460-47eb-91aa-216982629249)
